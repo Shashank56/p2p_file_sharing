@@ -11,7 +11,4 @@ Serverless Peer to Peer File Sharing
 
 * `open http://localhost:3333/`
 
-## Contributors
-
-* [Yefim](https://www.yef.im)
 
